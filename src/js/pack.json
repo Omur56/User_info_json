@@ -3,7 +3,7 @@
     "id": 1,
     "name": "Salman",
     "description": "Kohne Developer",
-    "image": "./src/public/user_image/salman_image.png",
+    "image": "https://raw.githubusercontent.com/Omur56/User_info_json/main/src/public/user_image/salman_image.png",
     "info": "Java developer",
     "salary": "1280"
   },
@@ -11,7 +11,7 @@
     "id": 2,
     "name": "Elnur",
     "description": "Kohne Developer",
-    "image": "./src/public/user_image/elnur_image.avif",
+    "image": "https://raw.githubusercontent.com/Omur56/User_info_json/main/src/public/user_image/elnur_image.avif",
     "info": "React developer",
     "salary": "1280"
   },
@@ -19,7 +19,7 @@
     "id": 3,
     "name": "Huseyin",
     "description": "Kohne Developer",
-    "image": "./src/public/user_image/huseyin_image.avif",
+    "image": "https://raw.githubusercontent.com/Omur56/User_info_json/main/src/public/user_image/huseyin_image.avif",
     "info": "Kotlin developer",
     "salary": "1280"
   },
@@ -27,7 +27,7 @@
     "id": 4,
     "name": "Ilkin",
     "description": "Kohne Developer",
-    "image": "./src/public/user_image/ilkin_image.jpg",
+    "image": "https://raw.githubusercontent.com/Omur56/User_info_json/main/src/public/user_image/ilkin_image.jpg",
     "info": "Frontend developer",
     "salary": "1180"
   },
@@ -35,7 +35,7 @@
     "id": 5,
     "name": "Cavid",
     "description": "Yeni Developer",
-    "image": "./src/public/user_image/cavid_image.avif",
+    "image": "https://raw.githubusercontent.com/Omur56/User_info_json/main/src/public/user_image/cavid_image.avif",
     "info": "Java developer",
     "salary": "1350"
   },
@@ -43,7 +43,7 @@
     "id": 6,
     "name": "Zəhra",
     "description": "Kohne Developer",
-    "image": "./src/public/user_image/zehra_image.jpg",
+    "image": "https://raw.githubusercontent.com/Omur56/User_info_json/main/src/public/user_image/zehra_image.jpg",
     "info": "Data Analytics developer",
     "salary": "1750"
   },
@@ -51,7 +51,7 @@
     "id": 7,
     "name": "Orxan",
     "description": "Kohne Developer",
-    "image": "./src/public/user_image/orxan_image.webp",
+    "image": "https://raw.githubusercontent.com/Omur56/User_info_json/main/src/public/user_image/orxan_image.webp",
     "info": "Kotlin developer",
     "salary": "1250"
   },
@@ -59,13 +59,13 @@
     "id": 8,
     "name": "Royal",
     "description": "Yeni Developer",
-    "image": "./src/public/user_image/royal_image.png",
+    "image": "https://raw.githubusercontent.com/Omur56/User_info_json/main/src/public/user_image/royal_image.png",
     "info": "PHP developer",
     "salary": "1250"
   },
   {
     "id": 9,
-    "image": "./src/public/user_image/ayxan_image.jpg",
+    "image": "https://raw.githubusercontent.com/Omur56/User_info_json/main/src/public/user_image/ayxan_image.jpg",
     "name": "Ayxan",
     "description": "yeni istfadeci",
     "info": "Frontend developer",
@@ -74,7 +74,7 @@
   {
     "name": "Lalə",
     "description": "Yeni Developer",
-    "image": "./src/public/user_image/lale_image.jpg",
+    "image": "https://raw.githubusercontent.com/Omur56/User_info_json/main/src/public/user_image/lale_image.jpg",
     "info": "Java developer",
     "salary": "1350",
     "id": 10
