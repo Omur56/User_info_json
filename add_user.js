@@ -3,11 +3,11 @@ const fs = require('fs');
 
 const newUsers = [
  {
-    "name": "Lalə",
-    "description": "kohne istfadeci",
-    "image": "lale_image.webp",
-    "info": "Java developer",
-    "salary": "1150",
+    "name": "Ömür",
+    "description": "Developer",
+    "image": "https://raw.githubusercontent.com/Omur56/User_info_json/main/src/public/user_image/omur_image.jpg",
+    "info": "Frontend developer",
+    "age":  "29",
     
   }
  

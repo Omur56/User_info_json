@@ -78,5 +78,13 @@
     "info": "Java developer",
     "salary": "1350",
     "id": 10
+  },
+  {
+    "name": "Ömür",
+    "description": "Developer",
+    "image": "https://raw.githubusercontent.com/Omur56/User_info_json/main/src/public/user_image/omur_image.jpg",
+    "info": "Frontend developer",
+    "age": "29",
+    "id": 11
   }
 ]
