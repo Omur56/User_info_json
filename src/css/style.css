@@ -40,3 +40,19 @@ h2{
     object-fit: cover;
     margin-bottom: 10px;
 }
+.omur{
+    color: #ffffff;
+    justify-content: center;
+    text-align: center;
+    margin-top: 20px;
+    font: 900 20px 'Poppins', sans-serif;
+}
+.omur a {
+    color: #006af5;
+    text-decoration: none;
+
+}
+.omur a:hover {
+    text-decoration: underline;
+    color: #f4c700;
+}
